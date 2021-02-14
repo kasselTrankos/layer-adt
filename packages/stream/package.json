@@ -1,0 +1,30 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "Stream land",
+  "keywords": [
+    "stream",
+    "fantasy-land"
+  ],
+  "author": "kasseltrankos <alvaro.touzon@gmail.com>",
+  "homepage": "https://github.com/kasselTrankos/layer-adt#readme",
+  "license": "ISC",
+  "main": "lib/stream.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasselTrankos/layer-adt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kasselTrankos/layer-adt/issues"
+  }
+}
